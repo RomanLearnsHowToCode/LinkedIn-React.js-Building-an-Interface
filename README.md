@@ -10,7 +10,8 @@ Chapter 1:
 * ES Lint - check code against some rules
 * Jest - testing framework
 * Web Vitals - performance measurement tool
-
+* Using react icon components: npm install react-icons --save
+Chapter 2:
 Chapter 3:
 
 Chapter 4:
