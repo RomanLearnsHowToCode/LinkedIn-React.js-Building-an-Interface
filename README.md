@@ -11,6 +11,10 @@ Chapter 1:
 * Jest - testing framework
 * Web Vitals - performance measurement tool
 * Using react icon components: npm install react-icons --save
+* https://react-icons.github.io/react-icons/
+* Tailwind CSS -> often utilised with React - https://tailwindcss.com 
+* Using CRACO - create react app override
+* THis might be re-done (all the installation path I would do again)
 Chapter 2:
 Chapter 3:
 
